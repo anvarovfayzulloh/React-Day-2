@@ -23,6 +23,12 @@
     max-width: 553px;
     font-size: 30px;
     line-height: 37px;
+        font-family: "Montserrat";
+        font-size: 20px;
+        font-weight: 700;
+        line-height: 30px;
+        color: #212121;
+        padding: 16px 0px 8px 0px;
 }
 .blog__img{
     border-radius: 12px;

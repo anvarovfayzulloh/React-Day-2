@@ -23,7 +23,7 @@
 .card__img{
     border-radius: 12px;
 }
-.card__title{
+.articles__card .card__title{
     font-family: "Montserrat";
     font-size: 20px;
     font-weight: 700;
