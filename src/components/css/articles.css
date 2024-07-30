@@ -1,0 +1,42 @@
+@import url(./fonts.css);
+
+.container__articles{
+    max-width: 1440px;
+    width: 100%;
+    margin: 0 auto;
+}
+.articles__wrapper{
+    padding: 80px 165px;
+}
+.articles__title{
+    font-family: "Montserrat";
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 34px;
+    color: #212121;
+}
+.articles__cards{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 56px 24px;
+}
+.card__img{
+    border-radius: 12px;
+}
+.card__title{
+    font-family: "Montserrat";
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 30px;
+    color: #212121;
+    padding: 16px 0px 8px 0px;
+}
+.article__description{
+    font-family: Open Sans;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: #52647C;
+    padding-top: 8px;
+}

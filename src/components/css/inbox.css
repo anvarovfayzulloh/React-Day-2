@@ -1,0 +1,56 @@
+.container__inbox{
+    max-width: 1440px;
+    width: 100%;
+    height: 514px;
+    margin: 0 auto;
+    padding: 80px 165px;
+}
+.inbox__wrapper{
+    width: 100%;
+    height: 100%;
+    background-image: url(../assets/images/inbox__background.png);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.inbox__title{
+    font-family: "Montserrat";
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    color: white;
+    max-width: 426px;
+    text-align: center;
+    letter-spacing: -0.4px;
+}
+.inbox__form{
+    display: flex;
+    align-items: center;
+    margin: 25px 0px 1px 0px;
+}
+.inbox__input{
+    padding: 14px 150px 14px 16px;
+    border: 1px solid #C4C4C4;
+    border-radius: 3px 0px 0px 3px;
+}
+.submit__btn{
+    width: 63px;
+    height: 45.91px;
+    border: 1px solid #C4C4C4;
+    border-left: none;
+    border-radius:0px 2px 2px 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 12px 22px;
+    background-color: #0D6EFD;
+}
+.inbox__text{
+    font-family: "Open Sans";
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 21px;
+    text-align: center;
+    color: white;
+}

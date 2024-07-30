@@ -1,0 +1,45 @@
+@import url(./fonts.css);
+.hero{
+    margin-top: 88px;
+}
+.container__hero{
+    max-width: 1440px;
+    width: 100%;
+    margin: 0 auto;
+}
+.hero__wrapper{
+    position: relative;
+}
+.users__commit{
+    position: absolute;
+    z-index: 3;
+    border-radius: 12px;
+    padding: 48px;
+    left: 165px;
+    bottom: 36px;
+    background-color: white;
+}
+.title__hero{
+    font-family: "Montserrat";
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+    max-width: 445px;
+    color: #212121;
+    margin-bottom: 16px;
+}
+.user{
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+.user__logo{
+    border-radius: 50%;
+}
+.user__desc{
+    font-family: "Open Sans";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #52647C;
+}

@@ -1,0 +1,40 @@
+.container__feature{
+    max-width: 1440px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 56px 165px;
+}
+.feature__wrapper{
+    margin: 0 auto;
+    max-width: 1110px;
+    background-color: #212121;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 16px;
+    padding: 52px 0px 32px 0px;
+}
+.user__commitv2{
+    margin: 88px 0px 0px 64px;
+}
+.feature__btn{
+    font-family: "Open Sans";
+    font-size: 14px;
+    font-weight: 700;
+    color: white;
+    border-radius: 3px;
+    background-color: #0D6EFD;    
+    padding: 4px 24px;
+    border: none;
+}
+.feature__title{
+    font-family: "Montserrat";
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 37px;
+    color: white;
+    max-width: 326px;
+    padding: 16px 0px;
+}
+.keyboard{
+    height: 286px;
+}
