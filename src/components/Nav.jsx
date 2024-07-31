@@ -22,7 +22,7 @@ const Nav = () => {
 							<img src={arrow__down} alt="" />
 						</div>
 						<div className='user__action' >
-							<img src={price} alt="" />
+							<img src={price} alt=""/>
 							<img src={bell} alt="" />
 						</div>
                     </div>
